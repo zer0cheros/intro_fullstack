@@ -71,6 +71,7 @@ Login page:
 
 - Code follows consistent styling using ESLint and Prettier
 - Component structure is clean and i´m trying to make "reusable"
+
 code page:
 ````tsx 
 import React from 'react'
